@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\bin\Debug\netcoreapp3.1\FindAllMeth.exe
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\bin\Debug\netcoreapp3.1\FindAllMeth.deps.json
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\bin\Debug\netcoreapp3.1\FindAllMeth.runtimeconfig.json
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\bin\Debug\netcoreapp3.1\FindAllMeth.runtimeconfig.dev.json
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\bin\Debug\netcoreapp3.1\FindAllMeth.dll
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\bin\Debug\netcoreapp3.1\FindAllMeth.pdb
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\obj\Debug\netcoreapp3.1\FindAllMeth.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\obj\Debug\netcoreapp3.1\FindAllMeth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\obj\Debug\netcoreapp3.1\FindAllMeth.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\obj\Debug\netcoreapp3.1\FindAllMeth.AssemblyInfo.cs
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\obj\Debug\netcoreapp3.1\FindAllMeth.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\obj\Debug\netcoreapp3.1\FindAllMeth.dll
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\obj\Debug\netcoreapp3.1\FindAllMeth.pdb
+C:\Users\User\Desktop\FindAllMeth\FindAllMeth\FindAllMeth\obj\Debug\netcoreapp3.1\FindAllMeth.genruntimeconfig.cache
